@@ -1,3 +1,4 @@
+//Given an array of integers, task is to print the array in the order – smallest number, Largest number, 2nd smallest number, 2nd largest number, 3rd smallest number, 3rd largest number and so on…..
 package com.saib;
 
 import java.util.Arrays;
