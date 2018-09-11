@@ -3,7 +3,7 @@ package com.saib;
 
 import java.util.Arrays;
 
-public class RearrangeArray {
+public class RearrangeArray_1 {
 
     static void rearrangeArray( int arr[],int n){
         Arrays.sort(arr);
